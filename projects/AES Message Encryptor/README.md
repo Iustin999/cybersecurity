@@ -15,7 +15,7 @@ The application is designed to help beginners understand the basics of symmetric
 
 ### Documentation
 📄 Full project documentation:  
-[AES-security.pdf](./AES-security.pdf) (written in Romanian)
+[AES-security.pdf](./AES.pdf) (written in Romanian)
 
 ---
 
@@ -34,4 +34,4 @@ Proiectul are scop educațional și poate fi folosit pentru a înțelege concept
 
 ### Documentație
 📄 Documentația completă a proiectului se găsește aici:  
-[AES-security.pdf](./AES-security.pdf) (scrisă în limba română)
+[AES-security.pdf](./AES.pdf) (scrisă în limba română)
